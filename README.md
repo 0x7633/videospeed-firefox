@@ -29,7 +29,7 @@ last point to listen to it a few more times.
 
 ![Player](https://cloud.githubusercontent.com/assets/2400185/24076745/5723e6ae-0c41-11e7-820c-1d8e814a2888.png)
 
-#### *Install [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) or [Firefox](https://github.com/0x7633/videospeed-firefox/releases/download/0.6.3.1/video_speed_controller-0.6.3.1-fx.xpi) Extension*
+#### *Install [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) or [Firefox](https://github.com/0x7633/videospeed-firefox/releases/download/0.6.3.2/video_speed_controller-0.6.3.2-fx.xpi) Extension*
 
 \*\* Once the extension is installed simply navigate to any page that offers
 HTML5 video ([example](http://www.youtube.com/watch?v=E9FxNzv1Tr8)), and you'll
